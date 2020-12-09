@@ -1,0 +1,10 @@
+! function(e, t) {
+    window.deferBootstrap({
+        elId: 'bs-5',
+        componentName: '@widget/SUBSCRIBE/bs-subscribe2-subscribe-form',
+        props: e,
+        context: t,
+        contextKey: 'context-bs-1',
+        radpack: "@widget/SUBSCRIBE/bs-subscribe2-subscribe-form"
+    }, true);
+}(JSON.parse("{\"upgradeable\":false,\"preset\":\"subscribe2\",\"id\":\"b40efa80-968e-417a-9960-a54d4e76c7f9\",\"isInternalPage\":false,\"env\":\"production\",\"websiteId\":\"0c5f15d6-6578-4dc2-860c-99f6a9a4a1f7\",\"accountId\":\"cb983547-3a01-11eb-81fb-3417ebe725c2\",\"hasNonCommercePlan\":true,\"couponToggleHidden\":false,\"sectionTitle\":\"Join My Mailing List\",\"staticContent\":{\"defaultButtonLabel\":\"Sign Up\",\"emailPlaceholderText\":\"Email Address\",\"verificationText\":\"To let us know it's really you and that you'd like to receive emails from us, please click the link in the confirmation email we just sent you. You can unsubscribe from these emails at any time.\",\"emailErrorMessage\":\"Please enter a valid email address.\"},\"confirmationMessage\":\"Great, now please verify your email\",\"couponConfirmationMessage\":\"Thanks so much for signing up!\",\"description\":\"Sign up to hear from us about specials, sales, and events.\",\"couponDescription\":\"Get 10% off your first purchase when you sign up for our newsletter!\",\"inputPlaceholder\":\"Email Address\",\"subscribeButtonLabel\":\"Sign up\",\"couponToggle\":false,\"widgetId\":\"b40efa80-968e-417a-9960-a54d4e76c7f9\",\"section\":\"default\",\"category\":\"neutral\",\"locale\":\"en-PK\",\"renderMode\":\"PUBLISH\"}"), JSON.parse("{\"widgetId\":\"b40efa80-968e-417a-9960-a54d4e76c7f9\",\"widgetType\":\"SUBSCRIBE\",\"widgetPreset\":\"subscribe2\",\"order\":3,\"section\":\"default\",\"category\":\"neutral\",\"fontSize\":\"medium\",\"fontFamily\":\"alternate\",\"group\":\"Group\",\"groupType\":\"Default\",\"websiteThemeOverrides\":{},\"widgetThemeOverrides\":{}}"));
